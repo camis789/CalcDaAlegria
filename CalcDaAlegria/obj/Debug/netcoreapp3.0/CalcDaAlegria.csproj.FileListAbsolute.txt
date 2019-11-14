@@ -1,0 +1,10 @@
+C:\Users\maris\source\repos\CalcDaAlegria\CalcDaAlegria\obj\Debug\netcoreapp3.0\CalcDaAlegria.AssemblyInfoInputs.cache
+C:\Users\maris\source\repos\CalcDaAlegria\CalcDaAlegria\obj\Debug\netcoreapp3.0\CalcDaAlegria.AssemblyInfo.cs
+C:\Users\maris\source\repos\CalcDaAlegria\CalcDaAlegria\bin\Debug\netcoreapp3.0\CalcDaAlegria.exe
+C:\Users\maris\source\repos\CalcDaAlegria\CalcDaAlegria\bin\Debug\netcoreapp3.0\CalcDaAlegria.deps.json
+C:\Users\maris\source\repos\CalcDaAlegria\CalcDaAlegria\bin\Debug\netcoreapp3.0\CalcDaAlegria.runtimeconfig.json
+C:\Users\maris\source\repos\CalcDaAlegria\CalcDaAlegria\bin\Debug\netcoreapp3.0\CalcDaAlegria.runtimeconfig.dev.json
+C:\Users\maris\source\repos\CalcDaAlegria\CalcDaAlegria\bin\Debug\netcoreapp3.0\CalcDaAlegria.dll
+C:\Users\maris\source\repos\CalcDaAlegria\CalcDaAlegria\bin\Debug\netcoreapp3.0\CalcDaAlegria.pdb
+C:\Users\maris\source\repos\CalcDaAlegria\CalcDaAlegria\obj\Debug\netcoreapp3.0\CalcDaAlegria.dll
+C:\Users\maris\source\repos\CalcDaAlegria\CalcDaAlegria\obj\Debug\netcoreapp3.0\CalcDaAlegria.pdb
